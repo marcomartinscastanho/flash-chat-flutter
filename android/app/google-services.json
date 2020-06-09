@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473596747056",
+    "firebase_url": "https://flash-chat-exercise.firebaseio.com",
+    "project_id": "flash-chat-exercise",
+    "storage_bucket": "flash-chat-exercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473596747056:android:bc3d5c467eb42b30f4fcf5",
+        "android_client_info": {
+          "package_name": "martinscastanho.marco.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473596747056-1jv5j251con4at7mrige8p06nio6ausk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHx_6wKwiVJ_TuWNrHyto3eFHCqxi7W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473596747056-1jv5j251con4at7mrige8p06nio6ausk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
